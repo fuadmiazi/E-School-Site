@@ -1,3 +1,6 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
 .greenbox{
     position: absolute;
     width: 100%;
@@ -12,6 +15,28 @@
 .row{
     margin-top: 20px;
 }
+.nav-link{
+    color: black;
+}
 .nav-item button{
     border-radius: 20px;
+}
+#get-started-btn{
+    border-radius: 20px;
+}
+h6{
+    color: #FD511A;
+}
+.schedule{
+    color: #21B573;
+}
+.col-6 img{
+   
+    width: 554px;
+    height: 346px;
+    left: 691px;
+    top: 157px;
+}
+.headinfo{
+    margin-top: 60px;
 }
