@@ -1,0 +1,64 @@
+.container{
+    margin-bottom: 100px;
+}
+.upper-portion{
+    background-color: rgb(241, 252, 224);
+    padding: 20px 150px;
+}
+
+#buy-now-button{
+    border-radius: 20px;
+}
+.nav-item img{
+    width: 100px;
+    justify-content: left;
+}
+
+.card img{
+    width: 50%;
+}
+.card{
+    background-color: rgb(241, 252, 224);
+    align-items: center;
+    border-style: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card:hover{
+    background-color: white;
+}
+.card-deck{
+    justify-content: center;
+    
+}
+.headlines{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#card-other{
+    background-color: white;
+}
+.text-muted img{
+    width: 15px;
+}
+#man-pic{
+    width: 100px;
+}
+
+footer{
+    background-color: black;
+}
+.nav-link{
+    color: black;
+}
+.ready{
+    color: orange;
+}
+.schedule{
+    color: green;
+}
+#small-text{
+    text-align: center;
+}
+.testi{
+    float: left;
+}
