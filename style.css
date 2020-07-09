@@ -104,3 +104,38 @@ h6{
     margin-left: 150px;
     margin-right: 150px;
 }
+.black-box{
+    background-color: #282531;
+    width: 100%;
+    height: 369px;
+}
+.footer-text{
+    color:#CDCDCD;
+}
+footer{
+    background-color: #282531;
+    text-align: center;
+}
+.blac-box-content {
+    color: #CDCDCD;
+}
+/* .col{
+    color: #CDCDCD;
+} */
+#footer-card{
+    background-color: #282531;
+}
+#row-text{
+    color: #CDCDCD ;
+}
+#foot-para{
+    margin-top: 30px;
+}
+#foot-heading{
+    margin-top: 30px;
+    color: white;
+}
+.dhoom{
+    color: #CDCDCD;
+}
+
