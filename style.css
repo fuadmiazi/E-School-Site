@@ -53,7 +53,7 @@ h6{
 }
 .card img{
     width: 100px;
-    margin-left: 50px;
+    margin-left: 80px;
     margin-top: 30px;
 }
 /* h5{
@@ -61,4 +61,38 @@ h6{
 } */
 #info-card{
     text-align: center;
+}
+.headlines{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#online-course{
+    background-color: white;
+}
+.card-footer{
+    border-style: none;
+    background-color: white;
+}
+#psycho-img{
+    margin-top: 10.5px;
+    margin-left: 10.5px;
+    width: 330px;
+}
+
+#buy-course{
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+#small-icon-img{
+    margin: 0;
+    width: 20px;
+}
+#online-card{
+    background-color: white;
+}
+#designation{
+    color: grey;
 }
