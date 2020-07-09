@@ -96,3 +96,11 @@ h6{
 #designation{
     color: grey;
 }
+#man-pic{
+    width: 100px;
+    margin-right: 50px;
+}
+.testi-contents{
+    margin-left: 150px;
+    margin-right: 150px;
+}
